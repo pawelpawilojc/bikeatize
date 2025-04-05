@@ -1,2 +1,2 @@
 # bikeatize
-Mobile webapp gamificating riding a bike - student group project
+Mobile web app for gamifying bike riding. Student group project to encourage cycling.
